@@ -1,5 +1,5 @@
 # auto-accept-and-complete-quest-discord
-This is a script that I "vibe coded" by refactoring another automation script I found on GitHub.
+This is a script that I vibe coding by refactoring another automation script I found on GitHub.
 
 To run this script, you must use the Discord Desktop/PC app.
 
